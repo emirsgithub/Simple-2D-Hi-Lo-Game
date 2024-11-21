@@ -42,20 +42,6 @@ Hi-Lo is a guessing game where you predict if the next number will be higher or 
 
 ---
 
-## How to Run the Game
-
-### Option 1: Visit my Website
-There is a page on my website which allos you to play this game.
-- [emirabidali.com](emirabidali.com)
-
-### Option 2: Unity Editor
-If you have Unity installed:
-1. Clone or download the Unity project files.
-2. Open the project in Unity.
-3. Click **Play** in the Unity Editor.
-
----
-
 ## Future Improvements
 - Add animations for better visual feedback.
 - Include sound effects and background music.
